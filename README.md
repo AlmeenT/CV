@@ -1,5 +1,6 @@
-This is a site that basically contains my cv
-so, THIS IS MY CV SITE
+This is a site that basically contains my cv.
+So, THIS IS MY CV SITE.
+And it will be updated from time to time
 
 
 # Getting Started with Create React App
