@@ -1,3 +1,7 @@
+This is a site that basically contains my cv
+so, THIS IS MY CV SITE
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
