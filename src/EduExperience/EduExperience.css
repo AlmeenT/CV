@@ -1,0 +1,17 @@
+.EduEx {
+    border: solid 1px purple;
+    border-radius: 10px;
+    margin: 100px 40px 40px 40px;
+
+}
+
+.EduEx h2 {
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+.EduEx .university {
+    text-align: left;
+    margin-left: 20px;
+}

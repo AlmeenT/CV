@@ -1,0 +1,10 @@
+.GI {
+    border: solid 1px black;
+    border-radius: 10px;
+    margin: 20px;
+    width: 1200px;
+    height: 170px;
+    position: relative;
+    left: 70px;
+    top: 50px;
+}
