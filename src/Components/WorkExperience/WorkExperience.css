@@ -1,0 +1,43 @@
+.WorkEx {
+    border: solid 1px red;
+    border-radius: 10px;
+    margin: 100px 40px 40px 40px;
+
+}
+
+.WorkEx h2 {
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+.WorkEx div {
+    text-align: left;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.WorkEx .work .position {
+    text-align: right;
+    margin: 0px 50px 0px 900px;
+}
+
+.WorkEx  .position1 {
+    text-align: right;
+    margin: 0px 50px 0px 870px;
+}
+
+.WorkEx .duration {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.WorkEx .info {
+    word-wrap: normal;
+    word-spacing: 5px;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 70px;
+}

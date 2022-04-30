@@ -1,0 +1,44 @@
+.EduEx {
+    border: solid 1px purple;
+    border-radius: 10px;
+    margin: 100px 40px 40px 40px;
+
+}
+
+.EduEx h2 {
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+.EduEx div {
+    text-align: left;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.EduEx .university .duration {
+    text-align: right;
+    margin: 0px 50px 0px 900px;
+}
+
+.EduEx  .duration1 {
+    text-align: right;
+    margin: 0px 50px 0px 918px;
+}
+
+.EduEx .cert {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.EduEx .info {
+    word-wrap: normal;
+    word-spacing: 5px;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 70px;
+}
